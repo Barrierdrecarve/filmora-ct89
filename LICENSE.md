@@ -1,4 +1,4 @@
-# 
+# 智能 Adobe Premiere Pro PC版 脚本 是最佳 Adobe Premiere Pro PC版 脚本，集成 实时预览 和 音频同步。安全、可靠、优化，性能最大化。
 
 
 
